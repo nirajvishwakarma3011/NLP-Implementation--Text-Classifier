@@ -9,3 +9,4 @@ This project focuses on **text classification** using different methodologies:
 - **Word2Vec embeddings** for capturing semantic relationships.
 - **Bag of Words (BoW) Model** with logistic regression for classification.
 - **Word2Vec-based Document Classification** using logistic regression.
+
